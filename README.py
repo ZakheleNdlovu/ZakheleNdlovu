@@ -9,19 +9,19 @@ class Person:
 
     def getName(self):
         name=self.name
-        print(name)
+        return name
 
     def getAge(self):
         age = self.age
-        print(age)
+        return age
 
     def getQualification(self):
         qual = self.qualification
-        print(qual)
+        return qual
 
     def getLaguagesSpoken(self):
         ls = self.languages_spoken
-        print(ls)
+        return ls
 
     def thankYou(self):
 	print('Thanks for dropping by! :)')
