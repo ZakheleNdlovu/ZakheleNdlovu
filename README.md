@@ -1,11 +1,11 @@
-class Me:
+class Person:
 
     def __init__(self):
         self.name = 'Zakhele Ndlovu'
         self.age = 24
         self.qualification = 'Marketing Management'
         self.languages_spoken = ['IsiZulu','English','IsiXhosa','Pedi','Setswana','Swati']
-	      self.tools = ['Python','Html & CSS','Javascript','MySQL','Salesforce']
+	self.tools = ['Python','Html & CSS','Javascript','MySQL','Salesforce']
 
     def getName(self):
         name=self.name
@@ -24,4 +24,7 @@ class Me:
         print(ls)
 
     def thankYou(self):
-	      print('Thanks for dropping by! :)')
+	print('Thanks for dropping by! :)')
+
+ me = Me()
+ me.thanYou()
