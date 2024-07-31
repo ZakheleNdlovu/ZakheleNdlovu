@@ -3,7 +3,6 @@ class Me:
     def __init__(self):
         self.name = 'Zakhele Ndlovu'
         self.age = 24
-        self.qualification = 'Marketing Management'
         self.languages_spoken = ['IsiZulu','English','IsiXhosa','Pedi','Setswana','Swati']
 	self.tools = ['Python','Html & CSS','Javascript','MySQL','Salesforce']
 
