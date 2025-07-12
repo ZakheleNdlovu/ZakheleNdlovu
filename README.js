@@ -1,7 +1,11 @@
-const me = {
-	name: "Zakhele Ndlovu",
-	age: 24,
-	code:["JavaScript","Python","C++","HTML & CSS","MySQL"],
-	hobbies: ["Progtamming","Drawing","Watching & Playing Basketball","Video Games"],
-	tools: ["Python","VS Code","HTML & CSS","JavaScript","Jupyter Notebook","MySQL Workbench/shell"]
+{
+	about:{
+		name: "Zakhele",
+		surname: "Ndlovu",
+		age: 25,
+	},
+	platforms: ["Python", "JavaScript", "HTML", "CSS", "React native/Next.js" ],
+        database: ["MySQL", "MongoDB",
+        tools: ["Microsoft Office", "Visual Studio Code", "MySQL workbench/shell", "Pycharm", "Amazon Web Services"]
+	
 }
