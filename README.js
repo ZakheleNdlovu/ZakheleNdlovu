@@ -2,16 +2,14 @@
 # Hi there, I'm Zakhele Ndlovu 👋
 
 Welcome to my GitHub profile!  
-I'm a passionate software developer, problem solver, and lifelong learner. I love exploring new technologies, building innovative solutions, and collaborating with others in the tech community.
+I'm a passionate software developer, problem solver, and lifelong learner. I love exploring new technologies, building innovative solutions, and learning about code.
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: _[Your current project or area of focus]_
-- 🌱 I’m learning: _[Technologies or skills you’re learning]_
-- 👯 I’m looking to collaborate on: _[Types of projects or technologies]_
-- 💬 Ask me about: _[Your key skills, technologies, or favorite topics]_
-- 📫 How to reach me: _[Your email or preferred contact method]_
-- ⚡ Fun fact: _[A fun, unique fact about you!]_
+- 🔭 I’m currently working on: _[Full-time, a scores update app]
+- 🌱 I’m learning: _[React js]
+- 📫 How to reach me: _[ndlovuz790@gmail.com ]_
+- ⚡ Fun fact: _[I have no fun facts, not fun at all huh?]_
 
 ## 🛠️ Languages & Tools
 
