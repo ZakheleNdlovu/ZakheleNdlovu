@@ -9,7 +9,7 @@ I'm a passionate software developer, problem solver, and lifelong learner. I lov
 - 🔭 I’m currently working on: _[Full-time, a scores update app]
 - 🌱 I’m learning: _[React js]
 - 📫 How to reach me: _[ndlovuz790@gmail.com ]_
-- ⚡ Fun fact: _[I have no fun facts, not fun at all huh?]_
+- ⚡ Fun fact: _[I'll let you know I know some]_
 
 ## 🛠️ Languages & Tools
 
