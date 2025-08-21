@@ -29,7 +29,7 @@ I'm a passionate software developer, problem solver, and lifelong learner. I lov
 ## 🌐 Connect with Me
 
 - LinkedIn - (https://www.linkedin.com/in/zakhele-ndlovu-813961174)
-- Twitter - (https://x.com/ZakheleNdlovu)
+- Twitter - (https://x.com/ZakheleNdlovu_)
 - Email] - (ndlovuz790@gmail.com)
 
 
