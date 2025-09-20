@@ -1,38 +1,35 @@
+# 👋 Hi, I'm Zakhele Ndlovu!
 
-# Hi there, I'm Zakhele Ndlovu 👋
+Welcome to my GitHub profile! I'm a passionate developer focused on building web applications and Python projects. I love exploring new technologies, solving challenging problems, and sharing my work with the community.
 
-Welcome to my GitHub profile!  
-I'm a passionate software developer, problem solver, and lifelong learner. I love exploring new technologies, building innovative solutions, and learning about code.
+## 🚀 Featured Projects
 
-## 🚀 About Me
+- [**My Portfolio**](https://github.com/ZakheleNdlovu/my-portfolio)  
+  A showcase of my skills, projects, and experience as a developer.
 
-- 🔭 I’m currently working on: _[Full-time, a scores update app]
-- 🌱 I’m learning: _[React js]
-- 📫 How to reach me: _[ndlovuz790@gmail.com ]_
-- ⚡ Fun fact: _[I'll let you know I know some]_
+- [**Basecamp Website**](https://github.com/ZakheleNdlovu/basecamp_website)  
+  A full-featured website project demonstrating frontend and backend integration.
 
-## 🛠️ Languages & Tools
+- [**Expense Tracker Web**](https://github.com/ZakheleNdlovu/expense_tracker_web)  
+  Track your expenses, visualize spending patterns, and manage your finances with this web app.
 
-- JavaScript
-- Python
-- React
-- Node.js
-- c++
+- [**Quiz Py**](https://github.com/ZakheleNdlovu/quiz_py)  
+  A Python-based quiz application with interactive features.
 
+- [**User Authentication**](https://github.com/ZakheleNdlovu/user_authentication)  
+  Secure authentication system for modern web apps.
 
-## 📝 Latest Projects
+## 🛠️ Skills
 
-- Project 1 (https://github.com/ZakheleNdlovu/full-time) - football scores and standings.)
-- Project 2 (https://github.com/ZakheleNdlovu/the-cook-book) - Foot recipes from around the world at your fingertips.)
+- **Languages:** Python, JavaScript, HTML, CSS
+- **Frameworks:** Django, Flask, React
+- **Tools:** Git, GitHub, VS Code
+- **Interests:** Web development, Automation, Data Visualization
 
+## 📫 Get in Touch
 
-## 🌐 Connect with Me
+- Email: ndlovuz790@gmail.com
 
-- LinkedIn - (https://www.linkedin.com/in/zakhele-ndlovu-813961174)
-- Twitter - (https://x.com/ZakheleNdlovu_)
-- Email] - (ndlovuz790@gmail.com)
+Feel free to explore my repositories, open issues, or fork projects. I'm always open to collaboration and feedback!
 
-
----
-
-Thank you for visiting my profile! 🚀
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
